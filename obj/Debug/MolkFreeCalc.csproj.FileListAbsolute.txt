@@ -1,0 +1,15 @@
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\bin\Debug\MolkFreeCalc.exe.config
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\bin\Debug\MolkFreeCalc.exe
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\bin\Debug\MolkFreeCalc.pdb
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MainWindow.g.cs
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\App.g.cs
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc_MarkupCompile.cache
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc_MarkupCompile.lref
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MainWindow.baml
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.g.resources
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.Properties.Resources.resources
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.csproj.GenerateResource.cache
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.exe
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.pdb
+C:\Users\alexg\Source\Repos\MolkFreeCalcTests\MolkFreeCalc\obj\Debug\MolkFreeCalc.csprojAssemblyReference.cache
